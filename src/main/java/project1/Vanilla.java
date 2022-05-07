@@ -1,6 +1,4 @@
-package ceng.anadolu.bim492;
-
-import ceng.anadolu.bim492.Icecream;
+package project1;
 
 public class Vanilla implements Icecream {
     @Override

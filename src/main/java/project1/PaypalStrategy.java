@@ -1,6 +1,4 @@
-package ceng.anadolu.bim492;
-
-import ceng.anadolu.bim492.PaymentStrategy;
+package project1;
 
 public class PaypalStrategy implements PaymentStrategy {
     private String emailId;

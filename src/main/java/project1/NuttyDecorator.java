@@ -1,7 +1,4 @@
-package ceng.anadolu.bim492;
-
-import ceng.anadolu.bim492.Icecream;
-import ceng.anadolu.bim492.IcecreamDecorator;
+package project1;
 
 public class NuttyDecorator extends IcecreamDecorator {
 

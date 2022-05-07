@@ -1,4 +1,4 @@
-package ceng.anadolu.bim492;
+package project1;
 
 public interface Icecream {
     public String makeIcecream();
