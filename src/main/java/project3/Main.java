@@ -12,5 +12,6 @@ public class Main {
         Subscriber customer4=new Subscriber("Sevval",applePublisher);
         System.out.println("Apple current state : "+ applePublisher.getAvailability());
         applePublisher.setAvailability("Available");
+        System.out.println("");
     }
 }
